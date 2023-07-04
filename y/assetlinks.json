@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "customer.eazypizy.in",
+      "sha256_cert_fingerprints":
+      ["4d:35:3c:9b:e5:a4:84:04:5c:a7:a3:f5:ee:7c:6f:4e:7b:f9:81:a4:69:db:b1:78:06:81:58:7a:0f:d4:f1:2c","59:67:d1:c5:ab:4a:40:a6:dd:4f:7d:a0:b1:0a:3a:33:50:d9:c8:4a:c2:5f:9f:c9:40:db:e8:b3:b6:41:66:98","94:e6:1a:f5:b7:16:d3:be:10:63:fe:98:15:91:92:38:03:bf:4e:1f:22:64:97:55:66:4f:11:21:1f:f2:bc:a5","c6:ff:60:59:22:71:77:a4:20:4c:d0:8f:e7:cc:15:ba:62:bd:b3:09:93:5f:e3:18:2b:f8:53:31:ca:74:47:6f"]
+    }
+  }]
